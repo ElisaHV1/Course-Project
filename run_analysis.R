@@ -1,3 +1,6 @@
+##Note: my script on R has been uploaded into this github repository as I failed to do it under version control
+
+
 ##Peer-grade Assignment: course project for the Getting and Cleaning Data Coursera course. 
   
 ##The run_analysis.R script does the following:
