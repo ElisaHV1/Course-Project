@@ -2,6 +2,8 @@
 
 ##ID Variables
 
+### This code book summarizes the variables contained in the tidy.txt filekkk
+
 subject ---->  ID of the subject, th correspond to the 30 volunteers withing an age bracket of 19-48 years that participated on the experiment.
 activity---->  Type of the activity performed (Walking, Walking Upstairs, Walking downstairs, Sitting, Standing, Laying)
 
